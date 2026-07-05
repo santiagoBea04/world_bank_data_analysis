@@ -1,6 +1,6 @@
 from this projet i learned how to use pandas to read files and analyse data fully. 
 
-alongsid this i learned new commands like merge to bring datasets together.
+alongside this i learned new commands like merge to bring datasets together.
 
 i laso leatned to rename and skip columns alognside the idmax and min functions
 
